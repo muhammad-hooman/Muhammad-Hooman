@@ -1,34 +1,113 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hooman</h1>
-<h3 align="center">A passionate CS Undergraduate from Pakistan, currently exploring AI Engineering</h3>
+<h1 align="center">Hey 👋, I'm Muhammad Hooman</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-hooman&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-hooman" /> </p>
+<h3 align="center">CS Undergraduate • AI Engineering Enthusiast • Full-Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-hooman" alt="muhammad-hooman" /></a> </p>
-
-- 🔭 I’m currently working on [data-cleaning-and-visualization-of-ecommerce-data](https://github.com/Hooman12-teach/data-cleaning-and-visualization-of-ecommerce-data--py)
-
-- 🌱 I’m currently learning **Machine Learning — Regression, Classification, Clustering, Scikit-learn, Model Evaluation Deep Learning — Neural Networks, CNNs, RNNs, PyTorch/TensorFlow Generative AI & LLMs — Transformers, Prompt Engineering, Embeddings, RAG, Fine-tuning AI Agents & Applications — Tool Calling, AI Agents, Vector Databases, Multimodal AI AI Engineering & Deployment — FastAPI, Docker, Cloud, MLOps, CI/CD, Production AI**
-
-- 👯 I’m looking to collaborate on [Elite-Arena](https://github.com/Hooman12-teach/Elite-Areana-project-react-)
-
-- 🤝 I’m looking for help with **stock-market-analyst**
-
-- 👨‍💻 All of my projects are available at [https://muhamamd-hooman-portfolio.vercel.app/](https://muhamamd-hooman-portfolio.vercel.app/)
-
-- 💬 Ask me about **AI Engineering**
-
-- 📫 How to reach me **muhammadhooman005@gmail.com**
-
-- ⚡ Fun fact **I code interfaces by day and experiment with AI by night. 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad hooman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad hooman" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammad-hooman&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/muhammad-hooman?label=Followers&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://muhamamd-hooman-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:muhammadhooman005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-hooman&show_icons=true&locale=en&layout=compact" alt="muhammad-hooman" /></p>
+👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-hooman&show_icons=true&locale=en" alt="muhammad-hooman" /></p>
+I'm Muhammad Hooman, a Computer Science undergraduate from Pakistan, currently moving from Full-Stack Development toward AI Engineering.
+
+🤖 Exploring Machine Learning, Deep Learning & Generative AI
+
+🧠 Learning LLMs, RAG, Embeddings & AI Agents
+
+💻 Building with React, Node.js, JavaScript & Python
+
+🚀 Interested in turning AI ideas into real-world applications
+
+🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,pandas,numpy,pytorch,mysql,mongodb,firebase,git,github,docker,vercel&perline=9" />
+</p>
+
+📊 GitHub Analytics
+
+🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=muhammad-hooman&theme=dark&hide_border=true" width="80%"/>
+</p>
+
+📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-hooman&custom_title=Muhammad%20Hooman's%20Contribution%20Graph&theme=github-dark&hide_border=true&area=true" width="100%"/>
+</p>
+
+💻 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-hooman&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-hooman&layout=compact&langs_count=6&hide_border=true&theme=github_dark" width="49%"/>
+</p>
+
+🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-hooman&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+</p>
+
+🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Hooman12-teach/Elite-Areana-project-react-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hooman12-teach&repo=Elite-Areana-project-react-&theme=github_dark&hide_border=true"/>
+  </a>
+  <a href="https://github.com/Hooman12-teach/data-cleaning-and-visualization-of-ecommerce-data--py">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hooman12-teach&repo=data-cleaning-and-visualization-of-ecommerce-data--py&theme=github_dark&hide_border=true"/>
+  </a>
+</p>
+
+Elite Arena — Sports court booking platform for cricket, futsal, padel, badminton & table tennis.
+
+E-Commerce Analytics — Python project for data cleaning, EDA and visualization using Pandas.
+
+🧠 AI Engineering Journey
+
+Python → Data Science → Machine Learning
+                         ↓
+                  Deep Learning
+                         ↓
+              Generative AI & LLMs
+                         ↓
+                  RAG & Embeddings
+                         ↓
+                    AI Agents
+                         ↓
+              Production AI Systems
+
+🎯 Current Goals
+
+Build practical AI applications
+
+Learn PyTorch & Deep Learning
+
+Build RAG & AI Agent projects
+
+Learn FastAPI, Docker & Cloud
+
+Contribute to Open Source
+
+⚡ Fun Fact
+
+I code interfaces by day and experiment with AI by night. 🚀
+
+<p align="center">
+  <a href="https://github.com/muhammad-hooman">GitHub</a> •
+  <a href="https://www.linkedin.com/in/muhammad-hooman/">LinkedIn</a> •
+  <a href="https://muhamamd-hooman-portfolio.vercel.app/">Portfolio</a>
+</p>
