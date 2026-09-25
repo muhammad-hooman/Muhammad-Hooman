@@ -3,13 +3,9 @@
 <h3 align="center">CS Undergraduate • AI Engineering Enthusiast • Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammad-hooman&label=Profile%20Views&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/muhammad-hooman?label=Followers&style=flat" alt="Followers"/>
-</p>
-
-<p align="center">
-  <a href="https://muhamamd-hooman-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:muhammadhooman005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/muhammad-hooman">GitHub Profile</a> •
+  <a href="https://muhamamd-hooman-portfolio.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/muhammad-hooman/">LinkedIn</a>
 </p>
 
 👨‍💻 About Me
@@ -32,24 +28,55 @@ I'm Muhammad Hooman, a Computer Science undergraduate from Pakistan, moving from
 
 📊 GitHub Analytics
 
-🔥 Contribution Streak
-
-<p align="center"><img src="https://streak-stats.demolab.com/?user=muhammad-hooman&theme=dark&hide_border=true" width="80%" alt="GitHub Streak"/></p>
-
 📈 Contribution Activity
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-hooman&custom_title=Muhammad%20Hooman%27s%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/></p>
-
-💻 GitHub Stats
+My latest contribution activity is available directly on my GitHub profile.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-hooman&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-hooman&layout=compact&langs_count=6&hide_border=true&theme=github_dark" width="49%" alt="Top Languages"/>
+  <a href="https://github.com/muhammad-hooman">
+    <img src="https://img.shields.io/badge/View%20Contribution%20Graph-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Contribution Graph"/>
+  </a>
+</p>
+
+📊 GitHub Overview
+
+<p align="center">
+  <a href="https://github.com/muhammad-hooman?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-View-181717?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories"/>
+  </a>
+  <a href="https://github.com/muhammad-hooman?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-View-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
+  </a>
+  <a href="https://github.com/muhammad-hooman?tab=stars">
+    <img src="https://img.shields.io/badge/Starred%20Projects-View-f5c518?style=for-the-badge&logo=github&logoColor=181717" alt="Starred Projects"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>💡 Tip:</b> GitHub automatically displays your contribution calendar on your profile.
 </p>
 
 🏆 GitHub Achievements
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-hooman&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies"/></p>
+<p align="center">
+
+🏆 Achievement
+
+🔗
+
+⭐ GitHub Contributions
+
+View Profile
+
+📦 Open Source Projects
+
+View Repositories
+
+💻 Development Activity
+
+View Activity
+
+</p>
 
 🚀 Featured Projects
 
@@ -59,30 +86,31 @@ I'm Muhammad Hooman, a Computer Science undergraduate from Pakistan, moving from
 
 🌐 Portfolio Website
 
-Muhammad Hooman Portfolio
-
 Personal portfolio website showcasing my projects, skills and development journey.
 
 Tech: JavaScript React Vercel
 
+<p>
 <a href="https://github.com/muhammad-hooman/Muhamamd-Hooman-Portfolio">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio Repository"/>
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio Repository"/>
 </a>
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
 🏨 Hotel Management System
 
-C++ OOP Project
-
-A university project built to practice Object-Oriented Programming concepts in C++.
+University project built to practice Object-Oriented Programming concepts in C++.
 
 Tech: C++ OOP
 
+<p>
 <a href="https://github.com/muhammad-hooman/Hotel-management-system">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Hotel Management Repository"/>
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Hotel Management Repository"/>
 </a>
+</p>
 
 </td>
 </tr>
@@ -119,7 +147,7 @@ Contribute to Open Source
 I code interfaces by day and experiment with AI by night. 🚀
 
 <p align="center">
-<a href="https://github.com/muhammad-hooman">GitHub</a> •
-<a href="https://www.linkedin.com/in/muhammad-hooman/">LinkedIn</a> •
-<a href="https://muhamamd-hooman-portfolio.vercel.app/">Portfolio</a>
+  <a href="https://github.com/muhammad-hooman">GitHub</a> •
+  <a href="https://www.linkedin.com/in/muhammad-hooman/">LinkedIn</a> •
+  <a href="https://muhamamd-hooman-portfolio.vercel.app/">Portfolio</a>
 </p>
