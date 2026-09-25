@@ -3,105 +3,93 @@
 <h3 align="center">CS Undergraduate • AI Engineering Enthusiast • Full-Stack Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/muhammad-hooman">
-    <img src="https://img.shields.io/badge/GitHub-muhammad--hooman-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://muhamamd-hooman-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:muhammadhooman005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=muhammad-hooman&label=Profile%20Views&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/muhammad-hooman?label=Followers&style=flat" alt="Followers"/>
 </p>
 
----
+<p align="center">
+  <a href="https://muhamamd-hooman-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:muhammadhooman005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-I'm **Muhammad Hooman**, a Computer Science undergraduate from Pakistan, moving from **Full-Stack Development toward AI Engineering**.
+I'm Muhammad Hooman, a Computer Science undergraduate from Pakistan, moving from Full-Stack Development toward AI Engineering.
 
-- 🤖 Learning Machine Learning, Deep Learning & Generative AI
-- 🧠 Exploring LLMs, RAG, Embeddings & AI Agents
-- 💻 Building with Python, React, Node.js & JavaScript
-- 🚀 Interested in turning AI ideas into real-world applications
+🤖 Exploring Machine Learning, Deep Learning & Generative AI
 
----
+🧠 Learning LLMs, RAG, Embeddings & AI Agents
 
-## 🛠️ Tech Stack
+💻 Building with React, Node.js, JavaScript & Python
+
+🚀 Interested in turning AI ideas into real-world applications
+
+🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express,pandas,numpy,pytorch,mysql,mongodb,firebase,git,github,docker,vercel&perline=9" alt="Tech Stack"/>
 </p>
 
----
+📊 GitHub Analytics
 
-# 📊 GitHub Analytics
+🔥 Contribution Streak
 
-<p align="center">
-  <a href="https://github.com/muhammad-hooman">
-    <img src="assets/github-overview.svg" width="100%" alt="GitHub Overview"/>
-  </a>
-</p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=muhammad-hooman&theme=dark&hide_border=true" width="80%" alt="GitHub Streak"/></p>
 
-### 🔥 Contribution Streak
+📈 Contribution Activity
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Contribution%20Streak-View%20Live%20on%20GitHub-161b22?style=for-the-badge&logo=github" alt="View GitHub contribution streak"/>
-</p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-hooman&custom_title=Muhammad%20Hooman%27s%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/></p>
 
-### 📈 Contribution Activity
+💻 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/muhammad-hooman">
-    <img src="https://img.shields.io/badge/Contribution%20Activity-View%20GitHub%20Profile-161b22?style=for-the-badge&logo=github" alt="View GitHub contribution activity"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-hooman&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-hooman&layout=compact&langs_count=6&hide_border=true&theme=github_dark" width="49%" alt="Top Languages"/>
 </p>
 
----
+🏆 GitHub Achievements
 
-## 🧾 GitHub Overview
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-hooman&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies"/></p>
 
-<p align="center">
-  <img src="assets/github-stats.svg" width="100%" alt="GitHub Analytics"/>
-</p>
+🚀 Featured Projects
 
-<p align="center">
-  <img src="assets/languages.svg" width="100%" alt="Top Languages"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://github.com/muhammad-hooman?tab=repositories">
-    <img src="https://img.shields.io/badge/📦%20Repositories-View%20All-238636?style=for-the-badge" alt="View repositories"/>
-  </a>
-  <a href="https://github.com/muhammad-hooman?tab=stars">
-    <img src="https://img.shields.io/badge/⭐%20Stars-View%20on%20GitHub-8957e5?style=for-the-badge" alt="View stars"/>
-  </a>
-</p>
+🌐 Portfolio Website
 
----
+Muhammad Hooman Portfolio
 
-## 🏆 GitHub Achievements
+Personal portfolio website showcasing my projects, skills and development journey.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🏆%20Achievements-View%20on%20GitHub-161b22?style=for-the-badge&logo=github" alt="GitHub achievements"/>
-</p>
+Tech: JavaScript React Vercel
 
----
+<a href="https://github.com/muhammad-hooman/Muhamamd-Hooman-Portfolio">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio Repository"/>
+</a>
 
-## 🚀 Featured Projects
+</td>
+<td width="50%" valign="top">
 
-| Project | Description |
-|---|---|
-| 🌐 **[Muhamamd-Hooman-Portfolio](https://github.com/muhammad-hooman/Muhamamd-Hooman-Portfolio)** | Personal portfolio website |
-| 🏨 **[Hotel-management-system](https://github.com/muhammad-hooman/Hotel-management-system)** | C++ OOP university project |
-| ⚛️ **[signup-login-setup-react](https://github.com/muhammad-hooman/signup-login-setup-react)** | React authentication project |
-| 🛒 **[daraz-smit-project](https://github.com/muhammad-hooman/daraz-smit-project)** | E-commerce frontend project |
+🏨 Hotel Management System
 
----
+C++ OOP Project
 
-## 🧠 AI Engineering Journey
+A university project built to practice Object-Oriented Programming concepts in C++.
 
-```text
+Tech: C++ OOP
+
+<a href="https://github.com/muhammad-hooman/Hotel-management-system">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Hotel Management Repository"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+🧠 AI Engineering Journey
+
 Python → Data Science → Machine Learning
                          ↓
                   Deep Learning
@@ -113,26 +101,25 @@ Python → Data Science → Machine Learning
                     AI Agents
                          ↓
               Production AI Systems
-```
 
----
+🎯 Current Goals
 
-## 🎯 Current Goals
+Build practical AI applications
 
-- Build practical AI applications
-- Learn PyTorch & Deep Learning
-- Build RAG & AI Agent projects
-- Learn FastAPI, Docker & Cloud
-- Contribute to Open Source
+Learn PyTorch & Deep Learning
 
----
+Build RAG & AI Agent projects
 
-## ⚡ Fun Fact
+Learn FastAPI, Docker & Cloud
 
-> I code interfaces by day and experiment with AI by night. 🚀
+Contribute to Open Source
+
+⚡ Fun Fact
+
+I code interfaces by day and experiment with AI by night. 🚀
 
 <p align="center">
-  <a href="https://github.com/muhammad-hooman">GitHub</a> •
-  <a href="https://www.linkedin.com/in/muhammad-hooman/">LinkedIn</a> •
-  <a href="https://muhamamd-hooman-portfolio.vercel.app/">Portfolio</a>
+<a href="https://github.com/muhammad-hooman">GitHub</a> •
+<a href="https://www.linkedin.com/in/muhammad-hooman/">LinkedIn</a> •
+<a href="https://muhamamd-hooman-portfolio.vercel.app/">Portfolio</a>
 </p>
